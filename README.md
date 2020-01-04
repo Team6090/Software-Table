@@ -1,5 +1,5 @@
 # Software Table
-A meta repository that holds a table of the software we use and the latest known versions of it. 
+A meta repository that holds a table of the software we use, the latest known versions, and download links. 
 
 | Vendor Libraries | Latest Known Version |
 |------------------|----------------------|
@@ -8,19 +8,19 @@ A meta repository that holds a table of the software we use and the latest known
 | CTRE Phoenix     | 5.14.1               |
 | RevRobotics      | 1.1.9                |
 
-| Software         | Latest Known Version |
-|------------------|----------------------|
-| OpenJDK          | 11.0.4 (LTS)         |
-| Gradle           | 5.6.2                |
-| FRC Update Suite | 2019.2.0             |
-| VS Code          | 1.38.1               |
-| Git              | 2.23.0               |
-| Phoenix Tuner    | 1.4.0                |
-| Spark Max Client | 1.0.0                |
-| Etcher           | 1.5.57               |
+| Software         | Latest Known Version | Link |
+|------------------|----------------------|------|
+| OpenJDK          | 11.0.5 (LTS)         | https://adoptopenjdk.net/?variant=openjdk11&jvmVariant=hotspot
+| Gradle           | 6.0.1                | https://gradle.org/releases/
+| FRC Game Tools   | 2020                 | https://www.ni.com/en-us/support/downloads/drivers/download.frc-game-tools.html
+| VS Code          | 1.41.1               | https://code.visualstudio.com/
+| Git              | 2.24.1               | https://git-scm.com/download
+| Phoenix Tuner    | 1.5.5                | https://github.com/CrossTheRoadElec/Phoenix-Releases/releases
+| Spark Max Client | 2.0.0                | https://www.revrobotics.com/sparkmax-software/
+| Etcher           | 1.5.70               | https://www.balena.io/etcher/
 
-| Firmware  | Latest known Version |
-|-----------|----------------------|
+| Firmware  | Latest known Version | Link |
+|-----------|----------------------|------|
 | Spark Max | 1.1.4                |
 | RoboRIO   | 6.0.0                |
 
