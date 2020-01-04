@@ -31,6 +31,7 @@ Below are tables of the vendor libraries, software, firmware, and images we use,
 | LimeLight | 2019.7.1             | https://limelightvision.io/pages/downloads
 
 | Drivers                       | Latest Known Version | Link |
+|-------------------------------|----------------------|------|
 | VS C++ Redistributable (2013) | **Must use 2013**    | https://www.microsoft.com/en-us/download/details.aspx?id=40784
 | Spark Max DFU                 | 1.5.0                | (Now included with Spark Max client)
 | Limelight USB Flash           | master               | https://github.com/raspberrypi/usbboot/raw/master/win32/rpiboot_setup.exe
