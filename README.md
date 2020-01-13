@@ -21,17 +21,17 @@ Below are tables of the vendor libraries, software, firmware, and images we use,
 
 | Firmware  | Latest known Version | Link |
 |-----------|----------------------|------|
-| Spark Max | 1.5.0                | https://www.revrobotics.com/sparkmax-software/#spark-max-firmware-updates
+| Spark Max | 1.5.1                | https://www.revrobotics.com/sparkmax-software/#spark-max-firmware-updates
 | RoboRIO   | 6.0.0                | (Comes with the FRC Game Tools)
 | Talon SRX | 4.22                 | http://www.ctr-electronics.com/control-system/motor-control/talon-srx.html#product_tabs_technical_resources
 
 | Images    | Latest Known Version | Link |
 |-----------|----------------------|------|
 | RoboRIO   | 2020.10              | (Comes with the FRC Game Tools)
-| LimeLight | 2019.7.1             | https://limelightvision.io/pages/downloads
+| LimeLight | 2020.0               | https://limelightvision.io/pages/downloads
 
 | Drivers                       | Latest Known Version | Link |
 |-------------------------------|----------------------|------|
 | VS C++ Redistributable (2013) | **Must use 2013**    | https://www.microsoft.com/en-us/download/details.aspx?id=40784
-| Spark Max DFU                 | 1.5.0                | (Now included with Spark Max client)
+| Spark Max DFU                 | 1.5.1                | (Now included with Spark Max client)
 | Limelight USB Flash           | master               | https://github.com/raspberrypi/usbboot/raw/master/win32/rpiboot_setup.exe
