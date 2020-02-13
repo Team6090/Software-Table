@@ -3,21 +3,22 @@ Below are tables of the vendor libraries, software, firmware, and images we use,
 
 | Vendor Libraries | Latest Known Version | Link |
 |------------------|----------------------|------|
-| WPILib           | 2020.1.2             | https://github.com/wpilibsuite/allwpilib/releases | 
-| NavX             | 3.1.366              | https://pdocs.kauailabs.com/navx-mxp/software/ |
-| CTRE Phoenix     | 5.16.0.0             | http://www.ctr-electronics.com/hro.html#product_tabs_technical_resources
-| RevRobotics      | 1.5.1                | https://www.revrobotics.com/sparkmax-software/#java-api
+| WPILib           | 2020.2.2             | https://github.com/wpilibsuite/allwpilib/releases
+| NavX             | 3.1.409              | https://pdocs.kauailabs.com/navx-mxp/software/ 
+| CTRE Phoenix     | 5.18.1               | http://www.ctr-electronics.com/hro.html#product_tabs_technical_resources
+| RevRobotics      | 1.5.1                | https://www.revrobotics.com/sparkmax-software/#java-api 
+| Rev ColorSensor  | 1.2.0                | http://www.revrobotics.com/rev-31-1557/ 
 
 | Software         | Latest Known Version | Link |
 |------------------|----------------------|------|
-| OpenJDK          | 11.0.5 (LTS)         | https://adoptopenjdk.net/?variant=openjdk11&jvmVariant=hotspot
-| Gradle           | 6.0.1                | https://gradle.org/releases/
+| OpenJDK          | 11.0.6 (LTS)         | https://adoptopenjdk.net/?variant=openjdk11&jvmVariant=hotspot
+| Gradle           | 6.1.1                | https://gradle.org/releases/
 | FRC Game Tools   | 20.0                 | https://www.ni.com/en-us/support/downloads/drivers/download.frc-game-tools.html
-| VS Code          | 1.41.1               | https://code.visualstudio.com/
+| VS Code          | 1.41.2               | https://code.visualstudio.com/
 | Git              | 2.25.0               | https://git-scm.com/download
-| Phoenix Tuner    | 1.5.5                | https://github.com/CrossTheRoadElec/Phoenix-Releases/releases
+| Phoenix Tuner    | 5.18.1               | https://github.com/CrossTheRoadElec/Phoenix-Releases/releases
 | Spark Max Client | 2.0.0                | https://www.revrobotics.com/sparkmax-software/#spark-max-client-application
-| Etcher           | 1.5.70               | https://www.balena.io/etcher/
+| Etcher           | 1.5.76               | https://www.balena.io/etcher/
 
 | Firmware  | Latest known Version | Link |
 |-----------|----------------------|------|
