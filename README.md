@@ -29,7 +29,7 @@ Below are tables of the vendor libraries, software, firmware, and images we use,
 | Images    | Latest Known Version | Link |
 |-----------|----------------------|------|
 | RoboRIO   | 2020.10              | (Comes with the FRC Game Tools)
-| LimeLight | 2020.0               | https://limelightvision.io/pages/downloads
+| LimeLight | 2020.2               | https://limelightvision.io/pages/downloads
 
 | Drivers                       | Latest Known Version | Link |
 |-------------------------------|----------------------|------|
