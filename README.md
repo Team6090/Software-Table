@@ -7,7 +7,8 @@ Below are tables of the vendor libraries, software, firmware, and images we use,
 | NavX             | 3.1.413              | https://pdocs.kauailabs.com/navx-mxp/software/ 
 | CTRE Phoenix     | 5.18.1               | http://www.ctr-electronics.com/hro.html#product_tabs_technical_resources
 | RevRobotics      | 1.5.2                | https://www.revrobotics.com/sparkmax-software/#java-api 
-| Rev ColorSensor  | 1.2.0                | http://www.revrobotics.com/rev-31-1557/ 
+| Rev ColorSensor  | 1.2.0                | http://www.revrobotics.com/rev-31-1557/
+| SwerveIO         | 4.2.0                | https://javadoc.bancino.net/SwerveIO/latest
 
 | Software         | Latest Known Version | Link |
 |------------------|----------------------|------|
