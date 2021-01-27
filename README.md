@@ -12,10 +12,10 @@ Below are tables of the vendor libraries, software, firmware, and images we use,
 
 | Software         | Latest Known Version | Link |
 |------------------|----------------------|------|
-| OpenJDK          | 11.0.9 (LTS)         | https://adoptopenjdk.net/?variant=openjdk11&jvmVariant=hotspot
+| AdoptOpenJDK     | 11.0.9 (LTS)         | https://adoptopenjdk.net/?variant=openjdk11&jvmVariant=hotspot
 | Gradle           | 6.8.1                | https://gradle.org/releases/
 | FRC Game Tools   | 20.0                 | https://www.ni.com/en-us/support/downloads/drivers/download.frc-game-tools.html
-| VS Code          | 1.52.1               | https://code.visualstudio.com/
+| VSCodium         | 1.52.1               | https://github.com/VSCodium/vscodium/releases
 | Git              | 2.30.0               | https://git-scm.com/download
 | Phoenix Tuner    | 5.19.4               | https://github.com/CrossTheRoadElec/Phoenix-Releases/releases
 | Spark Max Client | 2.0.0                | https://www.revrobotics.com/sparkmax-software/#spark-max-client-application
