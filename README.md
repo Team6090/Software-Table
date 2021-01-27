@@ -3,34 +3,34 @@ Below are tables of the vendor libraries, software, firmware, and images we use,
 
 | Vendor Libraries | Latest Known Version | Link |
 |------------------|----------------------|------|
-| WPILib           | 2021.1.2             | https://github.com/wpilibsuite/allwpilib/releases
+| WPILib           | 2021.2.1             | https://github.com/wpilibsuite/allwpilib/releases
 | NavX             | 3.1.413              | https://pdocs.kauailabs.com/navx-mxp/software/ 
-| CTRE Phoenix     | 5.18.1               | http://www.ctr-electronics.com/hro.html#product_tabs_technical_resources
-| RevRobotics      | 1.5.2                | https://www.revrobotics.com/sparkmax-software/#java-api 
+| CTRE Phoenix     | 5.19.4               | http://www.ctr-electronics.com/hro.html#product_tabs_technical_resources
+| RevRobotics      | 1.5.4                | https://www.revrobotics.com/sparkmax-software/#java-api 
 | Rev ColorSensor  | 1.2.0                | http://www.revrobotics.com/rev-31-1557/
-| SwerveIO         | 4.2.0                | https://javadoc.bancino.net/SwerveIO/latest
+| SwerveIO         | 5.0.0                | https://javadoc.bancino.net/SwerveIO/latest
 
 | Software         | Latest Known Version | Link |
 |------------------|----------------------|------|
 | OpenJDK          | 11.0.9 (LTS)         | https://adoptopenjdk.net/?variant=openjdk11&jvmVariant=hotspot
-| Gradle           | 6.8                  | https://gradle.org/releases/
+| Gradle           | 6.8.1                | https://gradle.org/releases/
 | FRC Game Tools   | 20.0                 | https://www.ni.com/en-us/support/downloads/drivers/download.frc-game-tools.html
 | VS Code          | 1.52.1               | https://code.visualstudio.com/
 | Git              | 2.30.0               | https://git-scm.com/download
-| Phoenix Tuner    | 5.18.1               | https://github.com/CrossTheRoadElec/Phoenix-Releases/releases
+| Phoenix Tuner    | 5.19.4               | https://github.com/CrossTheRoadElec/Phoenix-Releases/releases
 | Spark Max Client | 2.0.0                | https://www.revrobotics.com/sparkmax-software/#spark-max-client-application
 | Etcher           | 1.5.76               | https://www.balena.io/etcher/
 
 | Firmware  | Latest known Version | Link |
 |-----------|----------------------|------|
-| Spark Max | 1.5.2                | https://www.revrobotics.com/sparkmax-software/#spark-max-firmware-updates
+| Spark Max | 1.5.4                | https://www.revrobotics.com/sparkmax-software/#spark-max-firmware-updates
 | RoboRIO   | 6.0.0                | (Comes with the FRC Game Tools)
 | Talon SRX | 4.22                 | http://www.ctr-electronics.com/control-system/motor-control/talon-srx.html#product_tabs_technical_resources
 
 | Images    | Latest Known Version | Link |
 |-----------|----------------------|------|
-| RoboRIO   | 2020.10              | (Comes with the FRC Game Tools)
-| LimeLight | 2020.4               | https://limelightvision.io/pages/downloads
+| RoboRIO   | 2021.3               | (Comes with the FRC Game Tools)
+| LimeLight | 2020.7               | https://limelightvision.io/pages/downloads
 
 | Drivers                       | Latest Known Version | Link |
 |-------------------------------|----------------------|------|
