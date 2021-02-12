@@ -3,19 +3,19 @@ Below are tables of the vendor libraries, software, firmware, and images we use,
 
 | Vendor Libraries | Latest Known Version | Link |
 |------------------|----------------------|------|
-| WPILib           | 2021.2.1             | https://github.com/wpilibsuite/allwpilib/releases
+| WPILib           | 2021.2.2             | https://github.com/wpilibsuite/allwpilib/releases
 | NavX             | 3.1.413              | https://pdocs.kauailabs.com/navx-mxp/software/ 
 | CTRE Phoenix     | 5.19.4               | http://www.ctr-electronics.com/hro.html#product_tabs_technical_resources
 | RevRobotics      | 1.5.4                | https://www.revrobotics.com/sparkmax-software/#java-api 
 | Rev ColorSensor  | 1.2.0                | http://www.revrobotics.com/rev-31-1557/
-| SwerveIO         | 5.0.0                | https://javadoc.bancino.net/SwerveIO/latest
+| SwerveIO         | 6.0.1                | https://javadoc.bancino.net/SwerveIO/latest
 
 | Software         | Latest Known Version | Link |
 |------------------|----------------------|------|
 | AdoptOpenJDK     | 11.0.9 (LTS)         | https://adoptopenjdk.net/?variant=openjdk11&jvmVariant=hotspot
-| Gradle           | 6.8.1                | https://gradle.org/releases/
-| FRC Game Tools   | 20.0                 | https://www.ni.com/en-us/support/downloads/drivers/download.frc-game-tools.html
-| VSCodium         | 1.52.1               | https://github.com/VSCodium/vscodium/releases
+| Gradle           | 6.8.2                | https://gradle.org/releases/
+| FRC Game Tools   | 21.0                 | https://www.ni.com/en-us/support/downloads/drivers/download.frc-game-tools.html
+| VSCodium         | 1.53.1               | https://github.com/VSCodium/vscodium/releases
 | Git              | 2.30.0               | https://git-scm.com/download
 | Phoenix Tuner    | 5.19.4               | https://github.com/CrossTheRoadElec/Phoenix-Releases/releases
 | Spark Max Client | 2.0.0                | https://www.revrobotics.com/sparkmax-software/#spark-max-client-application
